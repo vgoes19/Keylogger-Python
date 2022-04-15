@@ -1,2 +1,2 @@
 # Pylogger
-<h5>O Pylogger se comporta como um keylogger, construído em python, grava tudo o que o usuário digitar</h5>
+<h5>This app works as a keylogger, made with python, records everything the user types</h5>
